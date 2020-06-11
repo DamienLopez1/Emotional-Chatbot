@@ -13,8 +13,3 @@ Interaction Script:
 >>> Type q to stop chatting.
 
 
-Link to folder:
-
->>>Access this folder for all code and saved models.
-
-https://cityuni-my.sharepoint.com/:f:/g/personal/damien_lopez_city_ac_uk/Ehx9CnoFrVBGvgbmLCWRF6MByp3x45jKbqO2VWKnppBaVA?e=sizKJ0
